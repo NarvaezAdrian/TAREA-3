@@ -1054,13 +1054,10 @@ https://youtu.be/llFDsY5f-nk
 5. CONCLUSIONES
 * Como conclusión, se tiene que la cantidad total de potencia presente en un circuito resistivo dispuesto en serie, es igual a la suma de potencias de cada resistor, también el voltaje siempre se mide con respecto a otro punto, cabe recalcar que, en un circuito en paralelo, el voltaje es igual al voltaje de cada de las demás ramas en paralelo.
 
-* De igual manera se tiene que un nodo es cualquier punto o unión donde dos o más componentes están conectados, y la ley de Kirchoff menciona que la suma de las corrientes que entran a un nodo, es igual a la suma de las corrientes que salen del mismo nodo.
 
 * Un circuito se encuentra en serie cuando solo posee una trayectoria la corriente y por lo tanto la corriente en dicho circuito no puede variar, pero el voltaje si varia debido a la caída de voltaje que presenta al pasar por un resistor, es decir va disminuyendo en el transcurso de pasar a través de todos los resistores.
 
 * La ley del voltaje de Kirchhoff sirve para hallar las caídas de voltaje en cada resistor del circuito o a su vez encontrar la fuente de voltaje total.
-
-* Los resistores están en paralelo cuando sus dos terminales están conectados a los mismos nodos, como también comparten el mismo voltaje en sus terminales.
 
 * En un circuito paralelo la suma de las intensidades de rama es la intensidad total del circuito, coincide con la que sale de la pila, conocido como la LCK, también hay que resaltar que la resistencia total de un circuito en paralelo es la inversa de las resistencias. 
 
@@ -1068,6 +1065,4 @@ https://youtu.be/llFDsY5f-nk
 
 Floyd, T. (2007). Principios de circuitos eléctricos. PEARSON Educación. https://drive.google.com/file/d/15UCq2JrPEKKB8SwajlmtTcE07nMiowaK/view
 
-RUBRICA
 
-![](https://github.com/doalulema/InformeTarea/blob/main/Tarea.png)
