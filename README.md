@@ -1,4 +1,6 @@
 1. OBJETIVOS
+
+
 1.1. Objetivo General
 * Conocer sobre los circuitos en serie y circuitos en paralelo a travez del libro de Floyd "Principios de Circuitos Eléctricos"
 
